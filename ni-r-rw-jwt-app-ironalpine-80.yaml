@@ -26,6 +26,7 @@ spec:
     spec:
       containers:
       - name: auth-api-nr-ni-alp320-80
+        namespace: default
         image: mustafamirza/nr-ni-auth-api-ironalpine3.20:asp3.3.60
         imagePullPolicy: Always
         resources:
@@ -119,6 +120,7 @@ spec:
     spec:
       containers:
       - name: web-app-nr-ni-alp320-80
+        namespace: default
         image: mustafamirza/nr-ni-web-app-ironalpine3.20:asp3.3.60
         imagePullPolicy: Always
         resources:
