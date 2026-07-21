@@ -72,9 +72,9 @@ spec:
         - name: ORCH_PORT
           value: "8443"
         - name: PLUGIN_ID
-          value: "9705e521-a928-4750-bfa7-5f6563829908"
+          value: "2eebb36f-c1c7-49cf-9948-9c79570dfd2f"
         - name: CLIENT_CRDS
-          value: "z4s2-qrkp4367524--9d_-_7t-h9nrr!qt7"
+          value: "_$@3?l91zm?t@3?v59mu94vs42s89nph67="
         - name: DEBUG_LOGS
           value: "true"
         - name: INFO_LOGS
@@ -82,7 +82,7 @@ spec:
         - name: ERROR_LOGS
           value: "true"
         - name: AVCD_SERVICE_TAG
-          value: "ni-r-rw-auth-api-customavcd"
+          value: "ni-r-rw-auth-api"
         - name: LOG_TO_STDOUT
           value: "false"
         - name: LD_PRELOAD
@@ -162,9 +162,9 @@ spec:
         - name: ORCH_PORT
           value: "8443"
         - name: PLUGIN_ID
-          value: "9705e521-a928-4750-bfa7-5f6563829908"
+          value: "2eebb36f-c1c7-49cf-9948-9c79570dfd2f"
         - name: CLIENT_CRDS
-          value: "z4s2-qrkp4367524--9d_-_7t-h9nrr!qt7"
+          value: "_$@3?l91zm?t@3?v59mu94vs42s89nph67="
         - name: DEBUG_LOGS
           value: "true"
         - name: INFO_LOGS
